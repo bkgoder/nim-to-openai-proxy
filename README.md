@@ -47,6 +47,10 @@ Node.js 24+, a NVAPI/Nim API key, a deployment platform (though if you follow th
 | `google-lighter` | `poolside/laguna-xs-2.1` | Coding | Fast | Unknown (to me) |
 | `google-lightest` | `meta/muse-glimmer-30b` | Coding & Agentic work | Fast | Unknown (to me) |
 | `m3` | `minimaxai/minimax-m3` | Experimental | Medium-High | Unknown (to me) |
+| `llama-vision` | `meta/llama-3.2-11b-vision-instruct` | Vision/Multimodal tasks | Fast | Low |
+| `vision` | `meta/llama-3.2-11b-vision-instruct` | Vision/Multimodal (short alias) | Fast | Low |
+| `llama-vision-11b` | `meta/llama-3.2-11b-vision-instruct` | Vision/Multimodal 11B | Fast | Low |
+| `llama-3.2-vision` | `meta/llama-3.2-11b-vision-instruct` | Vision/Multimodal full name | Fast | Low |
 
 ### Filter Guide
 
